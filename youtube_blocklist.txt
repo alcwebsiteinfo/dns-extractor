@@ -1,0 +1,33 @@
+# YouTube Ads and Tracking Domains
+# This blocklist blocks ads, trackers, and analytics on YouTube while keeping the service functional
+
+# YouTube advertising networks
+pagead2.googlesyndication.com
+googleadservices.com
+ads.google.com
+partner.googleadservices.com
+adservice.google.com
+
+# YouTube analytics and tracking
+youtube-ui.l.google.com
+youtube.l.google.com
+www.youtube.l.google.com
+googlesyndication.com
+
+# Double Click and advertising services
+doubleclick.net
+www.doubleclick.net
+ad.doubleclick.net
+
+# Google Analytics on YouTube
+google-analytics.com
+www.google-analytics.com
+ssl.google-analytics.com
+analytics.google.com
+
+# Google Ads related
+youtube.googleapis.com/ads
+
+# Tracking pixels and beacons
+google-analytics-tracking.com
+ytstatic.com/ads
